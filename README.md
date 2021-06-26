@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")]
+[![Header](https://raw.githubusercontent.com/alpster4/alpster4 "Header")]
 <h1 align="left">Hi 👋, I'm Alper</h1>
 <h3 align="left">A passionate robotics, ML, and AR/MR developer from Arizona</h3>
 
