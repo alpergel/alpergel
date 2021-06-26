@@ -6,6 +6,7 @@
 
 <h3 align="left">I'm Alper!</h3>
 - <i>About Me:</i> A passionate robotics, ML, and AR/MR developer from Arizona.
+
 - <i>Educational Institution Affiliations:</i> Arizona State University and McClintock High School
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpster4&label=Profile%20views&color=0e75b6&style=flat" alt="alpster4" /> </p>
