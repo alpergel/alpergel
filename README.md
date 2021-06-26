@@ -1,4 +1,4 @@
-[![alpster4 header](https://raw.githubusercontent.com/alpster4/alpster4/dancing-duckdancing.gif)]
+[![alpster4 header](https://raw.githubusercontent.com/alpster4/alpster4/original.jpg)]
 <h1 align="left">Hi 👋, I'm Alper</h1>
 <h3 align="left">A passionate robotics, ML, and AR/MR developer from Arizona</h3>
 
