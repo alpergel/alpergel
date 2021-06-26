@@ -5,6 +5,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
 <h3 align="left">I'm Alper!</h3>
+
 - <i>About Me:</i> A passionate robotics, ML, and AR/MR developer from Arizona.
 
 - <i>Educational Institution Affiliations:</i> Arizona State University and McClintock High School
