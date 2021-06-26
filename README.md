@@ -1,8 +1,8 @@
-# ![alpster4 header](./original.jpg)]
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+# ![alpster4 header](./original.jpg)
+
 <h1 align="left">Hi 👋, I'm Alper</h1>
 <h3 align="left">A passionate robotics, ML, and AR/MR developer from Arizona</h3>
-
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpster4&label=Profile%20views&color=0e75b6&style=flat" alt="alpster4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpster4" alt="alpster4" /></a> </p>
