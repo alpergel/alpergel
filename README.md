@@ -4,7 +4,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
-I'm Alper!
+<h4 align="left">I'm Alper!</h4>
 <h3 align="left">A passionate robotics, ML, and AR/MR developer from Arizona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpster4&label=Profile%20views&color=0e75b6&style=flat" alt="alpster4" /> </p>
