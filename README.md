@@ -1,4 +1,5 @@
-# [![alpster4 header](https://raw.githubusercontent.com/alpster4/alpster4/original.jpg)]
+# ![alpster4 header](./original.jpg)]
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 <h1 align="left">Hi 👋, I'm Alper</h1>
 <h3 align="left">A passionate robotics, ML, and AR/MR developer from Arizona</h3>
 
