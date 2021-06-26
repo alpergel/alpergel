@@ -1,4 +1,4 @@
-# ![alpster4 header](./original.jpg)
+# ![alpster4 header](./dancing-duckdancing.gif)
 
 <h1 align="left">Hey 👋</h1>
 
