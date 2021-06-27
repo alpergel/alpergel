@@ -6,7 +6,7 @@
 
 <h3 align="left">I'm Alper!</h3>
 
-<p align="left"> <a About Me: </a> </p> 
+<p align="left"> <a> About Me: </a> </p> 
 
 A passionate robotics, ML, and AR/MR developer from Arizona.
 
