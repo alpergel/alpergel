@@ -4,15 +4,15 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
-<h3 align="left">I'm Alper!</h3>
+<h2 align="left">I'm Alper!</h2>
 
-<p align="left"> <a> About Me: </a> </p> 
-
-A passionate robotics, ML, and AR/MR developer from Arizona.
+- A passionate robotics, ML, and AR/MR developer from Arizona.
 
 - 🔭 I’m currently working on **Augmented Reality CPR training**
 
 - 🌱 I’m currently learning **Unity AR**
+
+- 📚 Where I'm currently learning at **Arizona State University and McClintock High School**
 
 - 💬 Ask me about **OpenCV**
 
@@ -20,15 +20,28 @@ A passionate robotics, ML, and AR/MR developer from Arizona.
 
 - ⚡ Fun fact **I develop software on Linux and Windows**
 
-- <i>Educational Institution Affiliations:</i> Arizona State University and McClintock High School
 
+<h2>👀 Stats</h2>
+
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>Overall GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpster4" alt="GitHub Stats" /> <br/><br/>
+  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alpster4" alt="WakaTime" />
+  </p>
+</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpster4" alt="alpster4" /></a> </p>
 
 
 
-<h3 align="left">My Stats:</h3?
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpster4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <h3 align="left">Languages and Tools:</h3>
