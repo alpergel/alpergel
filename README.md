@@ -4,17 +4,11 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpster4&label=Profile%20views&color=0e75b6&style=flat" alt="alpster4" /> </p>
-
 <h3 align="left">I'm Alper!</h3>
 
-- <i>About Me:</i> A passionate robotics, ML, and AR/MR developer from Arizona.
+<p align="left"> <a About Me: </a> </p> 
 
-- <i>Educational Institution Affiliations:</i> Arizona State University and McClintock High School
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpster4" alt="alpster4" /></a> </p>
+A passionate robotics, ML, and AR/MR developer from Arizona.
 
 - 🔭 I’m currently working on **Augmented Reality CPR training**
 
@@ -25,6 +19,14 @@
 - 📫 How to reach me **aalisveris04@gmail.com**
 
 - ⚡ Fun fact **I develop software on Linux and Windows**
+
+- <i>Educational Institution Affiliations:</i> Arizona State University and McClintock High School
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpster4" alt="alpster4" /></a> </p>
+
+
 
 <h3 align="left">My Stats:</h3?
  
