@@ -2,7 +2,7 @@
 
 <h1 align="left">Hey There!👋</h1>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alpster4.alpster4)](https://github.com/alpster4) [![GitHub followers](https://img.shields.io/github/followers/alpster4.svg?style=social&label=Follow)](https://github.com/alpster4?tab=followers)
 
 <h2 align="left">I'm Alper!</h2>
 
@@ -29,11 +29,9 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
+  <p align="left">
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpster4" alt="GitHub Stats" /> <br/><br/>
-  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alpster4" alt="WakaTime" />
   </p>
 </div>
 
