@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Augmented Reality CPR training**
 
-- 🌱 I’m currently learning **Unity AR**
+- 🌱 I’m currently learning **StereoKit**
 
 - 📚 Where I'm currently learning at **Arizona State University and McClintock High School**
 
