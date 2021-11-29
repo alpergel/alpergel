@@ -13,7 +13,7 @@
 
 - 📚 Where I'm currently learning at: **Arizona State University and George Washington University Online High School**
 
-- 💬 Ask me about: **OpenCV**
+- 💬 Ask me about: **OpenCV and ARUCO tracking**
 
 - 📫 How to reach me: **aalisveris04@gmail.com**
 
