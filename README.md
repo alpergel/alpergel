@@ -20,24 +20,6 @@
 - ⚡ Fun fact **I develop software on Linux and Windows**
 
 
-<h2>👀 Stats</h2>
-
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="left">
-  <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpster4" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpster4" alt="alpster4" /></a> </p>
-
-
 
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpster4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
