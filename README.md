@@ -7,17 +7,16 @@
 
 - A passionate robotics, ML, and AR/MR developer from Arizona.
 
-- 🔭 I’m currently working on **Augmented Reality CPR training**
+- 🔭 I’m currently working on: **Augmented Reality CPR training**
 
-- 🌱 I’m currently learning **StereoKit**
+- 🌱 I’m currently learning: **StereoKit**
 
-- 📚 Where I'm currently learning at **Arizona State University and George Washington University Online High School**
+- 📚 Where I'm currently learning at: **Arizona State University and George Washington University Online High School**
 
-- 💬 Ask me about **OpenCV**
+- 💬 Ask me about: **OpenCV**
 
-- 📫 How to reach me **aalisveris04@gmail.com**
+- 📫 How to reach me: **aalisveris04@gmail.com**
 
-- ⚡ Fun fact **I develop software on Linux and Windows**
 
 
 
