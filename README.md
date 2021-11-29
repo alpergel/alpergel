@@ -1,4 +1,3 @@
-# ![alpster4 header](./dancing-duckdancing.gif)
 
 <h1 align="left">Hey There!👋</h1>
 
@@ -12,7 +11,7 @@
 
 - 🌱 I’m currently learning **StereoKit**
 
-- 📚 Where I'm currently learning at **Arizona State University and McClintock High School**
+- 📚 Where I'm currently learning at **Arizona State University and George Washington University Online High School**
 
 - 💬 Ask me about **OpenCV**
 
