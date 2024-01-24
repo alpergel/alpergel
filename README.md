@@ -5,17 +5,17 @@
 
 <h2 align="left">I'm Alper!</h2>
 
-- A passionate robotics, ML, and AR/MR developer from Arizona.
+- A passionate Robotics, ML, and Computer Vision developer from Arizona.
 
-- 🔭 I’m currently working on: **Augmented Reality CPR training**
+- 🔭 I’m currently working on: **Automating BioE Cognitive Research Processes**
 
-- 🌱 I’m currently learning: **StereoKit**
+- 🌱 I’m currently learning: **MLP Networks for Binary Classification**
 
-- 📚 Where I'm currently learning at: **Arizona State University and George Washington University Online High School**
+- 📚 Where I'm currently learning at: **UC Berkeley**
 
-- 💬 Ask me about: **OpenCV and ARUCO tracking**
+- 💬 Ask me about: **Pytorch, Gaussian Splatting, 2D->3D media pipelines, Computer Vision!**
 
-- 📫 How to reach me: **aalisveris04@gmail.com**
+- 📫 How to reach me: **alper.gel@berkeley.edu**
 
 
 
